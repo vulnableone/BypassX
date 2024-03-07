@@ -13,9 +13,9 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe /logfile= /LogTo
 
 Testing on Windows 11
 
-![image](https://github.com/vulnableone/BypassX/assets/141920364/f359f523-909d-4336-8b36-8e8cd2be00a0)
+![image](https://github.com/vulnableone/BypassX/assets/141920364/70d37c5a-b371-47b7-9bc6-44d679d4349e)
 
-![image](https://github.com/vulnableone/BypassX/assets/141920364/199bfa1d-113e-47b3-9d7c-f54b2d4b4751)
+![image](https://github.com/vulnableone/BypassX/assets/141920364/c0b33bf4-1803-4527-a824-eb7d33960d44)
 
 # ⚠️ Disclaimer:
 The information contained in this post is for educational and research purposes only. It is not intended to be used for malicious purposes. 
