@@ -1,8 +1,5 @@
 # ByassX
-This tools is designed to help security researchers and penetration testers evaluate and bypass various security features in the Windows operating system and identify potential weaknesses in the organization, including:
-1- Constrained Language Mode
-2- AMSI (AntiMalware Scan Interface)
-3- AppLocker
+This tools is designed to help security researchers and penetration testers evaluate and bypass various security features in the Windows operating system and identify potential weaknesses in the organization, including: **CLM** (Constrained Language Mode), **AMSI** (AntiMalware Scan Interface), and **AppLocker**.
 
 **Usage:**
 ```
